@@ -7,6 +7,7 @@ This repository contains 12 Excel assignments completed during my Data Analytics
 - Basic formulas
 - Text functions
 - VLOOKUP
+- HLOOKUP
 - Charts and graphs
 - Data validation
 - Invoice creation
